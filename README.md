@@ -1,4 +1,4 @@
-[![MasterHead](https://www.9series.com/img/services/full-stack/best%20Full%20Stack%20development%20company%20in%20India.jpg) 
+ 
 <h1 align="center">Hi 👋, I'm Devashree Ambegaokar</h1>
 <h3 align="center">A Competent Developer and Programmer!</h3>
 
