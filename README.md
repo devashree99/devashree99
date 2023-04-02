@@ -1,7 +1,7 @@
  
 <h1 align="center">Hi 👋, I'm Devashree Ambegaokar</h1>
 <h3 align="center">A Competent Developer and Programmer!</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/564x/3c/70/7d/3c707df82142f314d40afa2a4868ef48.jpg">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/564x/7c/2b/ac/7c2bacf83a09e8390eb6802a57d22c88.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devashree99&label=Profile%20views&color=0e75b6&style=flat" alt="devashree99" /> </p>
 
