@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devashree99&label=Profile%20views&color=0e75b6&style=flat" alt="devashree99" /> </p>
 
--# 💫 About Me:
+ 💫 About Me:<br>
 🔭 I’m currently working on JavaScript<br>🌱 I’m currently learning Java<br>💬 Ask me about Frontend<br>
 
 
